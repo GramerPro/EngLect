@@ -1,0 +1,630 @@
+﻿SUMMARY 
+
+요약
+
+
+Dosimetry for Epidemiological Studies: Learning from the Past, Looking to the Future 
+
+역학 연구에 대한 선량측정: 과거로부터 배우는 것, 미래를 보는 것
+
+
+Division of Cancer Epidemiology and Genetics, National Cancer Institute, National Institutes of Health, Bethesda, Maryland 
+
+국립암연구소 암 역학 및 유전학 부문, 메릴랜드 주 베데스다 국립보건원
+
+
+INTRODUCTION 
+
+도입
+
+
+Assembling the suite of manuscripts for this special issue of Radiation Research has afforded us a unique opportunity to evaluate the various methods of dosimetry used in support of epidemiological studies as well as the strengths and weaknesses of different dosimetric approaches. 
+
+방사선 연구 특별호에 대한 원고 세트를 조립하는 것은 역학 연구를 지원하기 위해 사용되는 다양한 선량측정 방법과 다양한 선량측정 접근방식의 장단점을 평가할 수 있는 독특한 기회를 제공해 왔다.
+
+
+Of equal importance is having the opportunity to highlight elements of dosimetry that are especially important to conducting convincing epidemiological studies. 
+
+동등한 중요성은 설득력 있는 역학 연구를 수행하는데 특히 중요한 선량측정 요소를 강조할 기회를 갖는 것이다.
+
+
+In general, analytical epidemiological studies of radiation effects attempt to combine information on disease (e.g. cancer) occurrence with estimates of radiation dose to individuals such that the relationship between the increase in disease incidence compared to the background rate as a function of the true dose can be described. 
+
+일반적으로 방사선 효과에 대한 분석 역학 연구는 질병(예: 암) 발생에 대한 정보와 개인에 대한 방사선량 추정치를 결합하여 실제 선량의 함수로서 백그라운드 레이트에 대한 질병 발병률 증가 사이의 관계를 설명할 수 있도록 시도한다.
+
+
+With regard to the language and science of dosimetry, there are a number of terms, assumptions and implied meanings that are often not clear to the variety of scientists involved in radiation epidemiology studies. 
+
+선량측정 언어와 과학에 관하여, 방사선 역학 연구에 관여하는 다양한 과학자들에게 종종 명확하지 않은 용어, 가정 및 암묵적 의미가 있다.
+
+
+This issue should help inform these researchers. 
+
+이 문제는 이 연구원들에게 알리는 데 도움이 될 것이다.
+
+
+In this special issue of Radiation Research devoted to the dosimetric aspects of radiation epidemiology, we attempted to clarify what is meant by ‘‘dosimetry for epidemiological studies’’, 
+
+방사선 역학에서 선량측정을 전담하는 방사선연구의 이번 특별호에서 '역학적 연구를 위한 선량측정'의 의미를 명확히 하려고 시도했다.
+
+
+what is required to ensure that the findings of dosimetry-based epidemiological studies are as credible and generalizable as possible, and to give practical examples from current or recent studies. 
+
+선량측정 기반 역학 연구의 결과가 가능한 한 신뢰할 수 있고 일반적이라는 것을 보장하고 현재 또는 최근의 연구에서 실제적인 예를 제공하기 위해 필요한 사항.
+
+
+While this collection of papers certainly does not cover all of the aspects of dosimetry in epidemiology, it is meant to describe where we have been in terms of applying dosimetry for epidemiological purposes and where we are going to further advance the discipline. 
+
+이 논문집에서는 확실히 역학에서 선량측정의 모든 측면을 다루지는 않지만, 역학적인 목적을 위해 선량측정을 적용한다는 점에서 우리가 어디에 있었는지, 그리고 규율을 더 진전시킬 수 있는 곳을 기술하기 위한 것이다.
+
+
+SUMMARY OF STUDIES PRESENTED 
+
+제시된 스터디의 요약
+
+
+Readers of this issue of Radiation Research are probably already acquainted with a wide range of dosimetric methods.  
+
+방사선 조사의 이 호에 대한 독자들은 아마도 이미 광범위한 선량측정 방법을 알고 있을 것이다.
+
+
+Here we briefly summarize the principal identifying components of the ten applications of dosimetric methods described in the individual papers. 
+
+여기서는 개별 논문에서 설명하는 10가지 선량측정 방법 적용의 주요 구성요소를 간략히 요약한다.
+
+
+Table 1 contains a listing of the papers and a greatly abbreviated description of the methods employed and the available input data. 
+
+표 1은 논문 목록과 채택된 방법과 사용 가능한 입력 데이터에 대한 크게 약화된 설명을 포함하고 있다.
+
+
+Medical Dosimetry 
+
+의료용량측정법
+
+
+Methods for estimation of organ doses after the administration of radioisotopes as described by Brill et al. (1) are well developed and have depended for several decades on the formulations of the Medical Internal Radiation Dose (MIRD) Committee [see ref. (2) for a primer on those methods]. 
+
+브릴 외 (1)에서 설명한 방사성동위원소 투여 후 장기선량 추정 방법은 잘 개발되었으며 수십 년 동안 MIRD(Medical Internal Radiation Dose) 위원회의 공식에 의존해 왔다[그 방법에 대한 기초자는 참조. (2) 참조].
+
+
+The basis for dose estimation by these methods is a metabolic model coupled with a measured amount of administered radioactive material. 
+
+이러한 방법에 의한 선량 추정의 근거는 투여된 방사성 물질의 측정 양과 결합된 대사 모델이다.
+
+
+Unlike occupational and environmental dose estimations, the great advantage in these situations is that the amount of activity administered is usually known. 
+
+직업적 및 환경적 선량 추정과는 달리, 이러한 상황에서 가장 큰 장점은 투여되는 활동의 양이 보통 알려져 있다는 것이다.
+
+
+Though the ability to accurately measure the administered activity does not pose any great technical challenges, differences between individuals in their metabolism (kinetics) and anatomy (size and exact location of organs) lead to uncertainties in the absorbed dose for any identified person. 
+
+투여된 활동을 정확하게 측정할 수 있는 능력은 큰 기술적 문제를 일으키지 않지만, 신진대사(키네틱스)와 해부학(장기의 크기 및 정확한 위치)에서 개인 간의 차이는 식별된 사람에 대한 흡수 선량의 불확실성으로 이어진다.
+
+
+Thus, even when activity intake is known, doses cannot be estimated with absolute precision. 
+
+따라서 활동 섭취를 알 수 있는 경우에도 선량은 절대 정밀도로 추정할 수 없다.
+
+
+One of the limitations in estimating individual dose arises from the use of standardized or mathematical phantoms that are assumed to representing the individual receiving the treatment dose. 
+
+개별 선량 추정에 대한 한계 중 하나는 치료 선량을 받는 개인을 나타내는 것으로 가정되는 표준화되거나 수학적인 팬텀의 사용에서 발생한다.
+
+
+Even iodine-131, one of the most studied nuclides for which kinetics in the human body has been described since the early 1950s (3), has dose uncertainties, partly because of human variation, but also due to secular changes in the dietary component of stable iodine. 
+
+심지어 요오드-131은 1950년대 초(3) 이후 인체 내 운동학을 설명한 가장 연구된 핵종 중 하나로서, 선량 불확실성을 가지고 있는데, 부분적으로는 인간의 변화 때문이기도 하지만 안정 요오드의 식이 요오드의 세속적 변화 때문이기도 하다.
+
+
+Changes in iodine intake have occurred at the local, national and international levels, and these can affect the amount of radioiodine absorbed by each individual thyroid gland. 
+
+요오드 섭취의 변화는 국부적, 국내적, 국제적 수준에서 일어났고, 이것들은 각각의 개별 갑상선에 흡수되는 방사성 요오드 양에 영향을 미칠 수 있다.
+
+
+Estimation of doses from medical procedures, including treatments and diagnostic procedures, as described by Stovall et al. (4), involves traditional treatment planning techniques, 
+
+Stovall et al. (4)에서 설명한 바와 같이 치료 및 진단 절차를 포함한 의료 절차의 선량 추정에는 전통적인 치료 계획 기법이 수반된다.
+
+
+archival data collection, and contemporary measurements, sometimes of aged radiation-generating machines.  
+
+보관 데이터 수집 및 현대적 측정, 때로는 노후한 방사선 생성 기계.
+
+
+The goal of those various techniques is, in general, to characterize the dose to organs/tissues outside of treatment areas, primarily due to within-body scatter of radiation and leakage from the treatment machine. 
+
+이러한 다양한 기법의 목표는 일반적으로 치료 영역 외부의 장기/조직에 대한 선량을 특성화하는 것이며, 이는 주로 방사선 체내 산란과 치료 기계로부터의 누출에 기인한다.
+
+
+Various types of phantoms are used for dose measurements and dose estimation, including mathematical, anthropometric and water phantoms. 
+
+수학, 인체측정학 및 물 팬텀을 포함하여 선량 측정 및 선량 추정에 다양한 유형의 팬텀이 사용된다.
+
+
+Therapy doses are particularly amenable to reconstruction because, much like when radiopharmaceuticals are administered, the irradiation conditions were controlled and the dose to the treatment site was recorded, 
+
+방사선 투약량을 투여할 때와 마찬가지로 방사선 투약 조건을 제어하고 치료 현장에 대한 선량을 기록하기 때문에 치료 선량은 특히 재구성에 적합하다.
+
+
+although detailed radiation records are not always accessible (5). 
+
+상세 방사선 기록에 항상 접근할 수 있는 것은 아니지만(5).
+
+
+Since patients comprise the largest population group exposed to doses ranging from very low to extremely high, dosimetry and risk associated with those exposures will continue to be a major focus of study. 
+
+환자들은 매우 낮음에서 매우 높은 선량에 피폭된 가장 큰 인구 그룹으로 구성되기 때문에, 그러한 피폭과 관련된 선량측정 및 위험은 계속 연구의 주요 초점이 될 것이다.
+
+
+Occupational Dosimetry 
+
+직업 선량측정
+
+
+Occupational exposure includes a wide range of job descriptions in the medical, weapons construction, and nuclear power industries, and dosimetric methods reflect those various conditions. 
+
+직업상 노출은 의료, 무기 건설, 원자력 산업에서의 광범위한 직업 설명을 포함하며, 선량측정 방법은 그러한 다양한 조건을 반영한다.
+
+
+Dose estimation for the Chernobyl clean-up workers as described by Bouville et al. (6) took advantage of the unique exposure conditions that could be assumed as relatively homogeneous over the body. 
+
+부빌 외 연구진(6)이 설명한 체르노빌 정리 작업자에 대한 선량 추정은 체르노빌에서 비교적 균질하다고 가정할 수 있는 독특한 노출 조건을 이용했다.
+
+
+In that study, doses were estimated by one of four different methods, depending on the individual study subject and the data available for that subject: 
+
+이 연구에서 선량은 개별 연구 주제와 해당 주제에 대해 이용할 수 있는 데이터에 따라 네 가지 방법 중 하나로 추정되었다.
+
+
+individual film badge measurements, a group film badge measurement, group assessment based on the dose rate at the work assignment location, or individual reconstruction based on time spent at different locations taking into account the respective dose rates at those locations. 
+
+개별 필름 배지 측정, 그룹 필름 배지 측정, 작업 할당 위치의 선량률에 기초한 그룹 평가 또는 해당 위치의 각 선량률을 고려하여 서로 다른 위치에서 보내는 시간에 기초한 개별 재구성.
+
+
+The doses for the Estonian workers were also estimated by biodosimetric methods, but neither GPA nor FISH was able to detect any biological changes compared to control subjects. 
+
+또한 에스토니아 근로자에 대한 선량은 생체모방법에 의해 추정되었지만, GPA와 FISH 모두 통제 대상자에 비해 생물학적 변화를 감지할 수 없었다.
+
+
+The failure of biodosimetry to support estimated doses was likely related to the overestimation of recorded doses for those exposed workers as well as the limits of detection. 
+
+추정 선량을 지원하기 위한 생물측정기의 실패는 피폭 근로자에 대한 기록된 선량의 과대평가 및 검출 한계와 관련이 있을 가능성이 높다.
+
+
+Nuclear workers, in the context of the paper by Gilbert et al. (7), include personnel involved in weapons production, nuclear power generation, and related research activities in the U.S., UK and Canada. 
+
+길버트 외 연구진(7)의 논문 맥락에서 핵 종사자는 무기 생산, 원자력 발전 및 미국, 영국, 캐나다의 관련 연구 활동에 관여하는 인력을 포함한다.
+
+
+Studies of those workers encountered some of the same problems as the study of radiological technologists (8) in that workers were monitored over time (from the 1940s through recent years) when the calibration methods for personnel monitoring badges were evolving. 
+
+작업자에 대한 연구는 작업자가 직원 모니터링 배지에 대한 보정 방법이 진화하는 1940년대부터 최근까지 시간의 경과에 따라 모니터링되었다는 점에서 방사선 기술자 연구(8)와 동일한 문제에 직면했다.
+
+
+In addition to different types of calibrations, dosimeters used early in the profession did not respond accurately to all radiation energies or uniformly with direction. 
+
+다른 유형의 교정 외에도, 직업에서 초기에 사용된 선량계는 모든 방사선 에너지에 정확하게 반응하지 않거나 방향과 균일하게 반응하지 않았다.
+
+
+Gilbert and colleagues (7) primarily characterize the bias and uncertainties related to the dosimetry and describe some ways to account for the uncertainty so that dose.response analyses are not unnecessarily limited. 
+
+길버트와 동료(7)는 주로 선량측정과 관련된 편견과 불확실성을 특징으로 하며 선량 반응 분석이 불필요하게 제한되지 않도록 불확실성을 설명하는 몇 가지 방법을 설명한다.
+
+
+Radiation technologists began to be needed in the early part of the 20th century during the developmental period of diagnostic and therapeutic radiology. 
+
+방사선 기술자들은 진단과 치료용 방사선학의 발달기간에 20세기 초에 필요하기 시작했다.
+
+
+Throughout the 20th century, the responsibilities of these medical professionals changed from a mixture of all tasks in a radiology department to becoming more specialized in specific procedures. 
+
+20세기 내내 이러한 의료전문가들의 책임은 방사선학과에서 모든 업무를 혼합한 것에서 특정 절차에 더 전문화된 것으로 바뀌었다.
+
+
+Over that same period, understanding and recognition of radiation risks, development of ALARA (as low as reasonably achievable) principles, and improved technologies served to reduce the doses per individual procedure to the patient and the technologist. 
+
+같은 기간 동안 방사선 위험의 이해와 인식, ALARA(합리적으로 달성 가능한 한 낮음) 원칙의 개발 및 개선된 기술은 환자와 기술자에 대한 개별 절차당 선량을 줄이는 데 도움이 되었다.
+
+
+At the same time, the workload of technologists has increased due to the widespread use of radiological procedures in medicine. 
+
+동시에, 의료에서 방사선 절차를 광범위하게 사용했기 때문에 기술자의 작업 부하가 증가하였다.
+
+
+Estimation of doses to medical workers rarely goes beyond a reported value of the personal dose equivalent, a regulatory quantity derived directly from a calibrated film badge. 
+
+의료 종사자에 대한 선량 추정은 보정된 필름 배지에서 직접 도출된 규제 수량인 개인 선량당량 보고 값을 초과하는 경우가 거의 없다.
+
+
+In the dosimetric methods described by Simon et al. (8), assumptions based on literature review were used to describe the nature and quality of radiation fields to which individual technologists were exposed, thus allowing for estimation of organ doses and their uncertainties. 
+
+Simon 등(8)이 설명한 선량측정 방법에서 문헌 검토에 기초한 가정은 개별 기술자가 피폭된 방사선장의 특성과 품질을 설명하기 위해 사용되었고, 따라서 장기 선량과 그 불확실성의 추정이 가능했다.
+
+
+For reconstruction of doses to radiation technologists, responses to detailed questionnaires were used as well as large national databases of film badge readings that included data on members of the cohort. 
+
+방사선 기술자에 대한 선량의 재구성을 위해 상세한 설문지에 대한 응답과 코호트의 구성원에 대한 데이터를 포함하는 필름 배지 판독의 대형 국가 데이터베이스를 사용했다.
+
+
+Environmental Dosimetry 
+
+환경 선량측정
+
+
+The estimation of doses from exposure to radioactive fallout from nuclear weapons tests and from releases of radionuclides to the environment occupies a special niche in dosimetric applications because it includes a wide variety of disciplines including physics, environmental science, anatomy and physiology, and even human behavior. 
+
+핵무기 실험에 의한 방사성 낙진에 대한 피폭과 환경에 대한 방사성핵종 방출에 따른 선량의 추정은 물리, 환경과학, 해부학 및 생리학, 그리고 심지어 인간의 행동을 포함한 다양한 분야를 포함하기 때문에 선량측정 애플리케이션의 특별한 틈새를 차지한다.
+
+
+There are several unique qualities of fallout dosimetry. First was the large number of source terms; between 1945 and 1980, over 500 weapons tests were conducted in the atmosphere at a number of locations around the world. 
+
+낙진 선량측정에는 몇 가지 독특한 특성이 있다. 첫 번째는 많은 수의 출처 용어였다; 1945년에서 1980년 사이, 500개 이상의 무기 실험이 전 세계 여러 곳에서 대기 중에 행해졌다.
+
+
+Another unique quality of fallout studies is that individual dosimetry data, except occasionally for military personnel, are never available. 
+
+낙진 연구의 또 다른 독특한 품질은 군인을 제외하고 개별 선량측정 데이터는 결코 이용할 수 없다는 것이다.
+
+
+Even for military personnel, monitoring data would apply only to external exposures, and fallout dose estimation usually includes internal exposure as well. 
+
+군인의 경우에도 모니터링 데이터는 외부 피폭에만 적용되며, 낙진 선량 추정에는 대개 내부 피폭도 포함된다.
+
+
+Hence dose estimation for fallout exposure almost always requires the use of complex models with numerous parameters. 
+
+따라서 낙진 피폭에 대한 선량 추정은 거의 항상 다양한 매개변수를 가진 복잡한 모델을 사용해야 한다.
+
+
+To characterize those parameters, only very limited amounts of real data are typically available, resulting in high uncertainty, particularly for internal dose. 
+
+이러한 매개변수를 특징짓기 위해, 매우 제한된 양의 실제 데이터만 일반적으로 이용가능하며, 이는 특히 내부 선량에 대한 높은 불확실성을 초래한다.
+
+
+Second, the long interval since the exposures occurred has resulted in loss of some original data, although the sparse historical measurement data available are generally sufficient to estimate external exposure doses reasonably well. 
+
+둘째로, 피폭 발생 후 긴 간격은 일부 원본 데이터를 상실하지만, 이용할 수 있는 희박한 과거 측정 데이터는 일반적으로 외부 피폭 선량을 합리적으로 잘 추정하기에 충분하다.
+
+
+Reconstruction of internal doses from ingestion and inhalation of radionuclides is significantly more complex and is almost always more uncertain than for external dose estimation. 
+
+방사성핵종의 섭취와 흡입으로 인한 내부 선량의 재구성은 외부 선량 추정보다 상당히 복잡하며 거의 항상 불확실하다.
+
+
+Internal dose estimates are typically based on estimates of the ground deposition per unit area of specific radionuclides and subsequent transport of radionuclides through the food chain whereas, for external dose estimation, reconstruction is reasonably straightforward and relevant data in the form of exposure rates are often available. 
+
+내부 선량 추정은 일반적으로 특정 방사성핵종의 단위 면적당 지상 침전 추정과 식품 사슬을 통한 방사성핵종의 후속 운송에 기초하지만, 외부 선량 추정의 경우 재구성이 합리적으로 간단하며 피폭 비율 형태의 관련 데이터를 이용할 수 있는 경우가 많다.
+
+
+In the description of fallout dosimetry methods by Beck et al. (9), the number of locations for which dose estimates has been made is impressive and covers most of the continents as well as some island locations. 
+
+벡 외 연구진(9)에 의한 낙진 선량측정 방법의 설명에서는 선량 추정치가 이루어진 위치의 수가 인상적이며, 대부분의 대륙과 일부 섬 위치를 포함한다.
+
+
+Moreover, because of the large numbers of measurements of fallout radionuclides in the environment and in humans, fallout studies have been some of the most innovative in terms of developing individual dose and uncertainty estimates. 
+
+또한 환경과 인간의 낙진 방사성핵종 측정 횟수가 많기 때문에 낙진 연구는 개별 선량 및 불확실성 추정치의 개발 측면에서 가장 혁신적인 것이었다.
+
+
+Despite nearly 50 years of study, technical challenges in fallout dosimetry still remain. 
+
+거의 50년간의 연구에도 불구하고, 낙진 선량측정에서의 기술적 난제는 여전히 남아있다.
+
+
+These include needed improvements in modeling of radionuclide fractionation with changes in distance and particle size, consistency of models between U.S., Russian and other investigators, and the continuing need to archive historical data that are at risk of permanent loss. 
+
+여기에는 거리와 입자 크기의 변화에 따른 방사성핵종 분율 모델링의 개선, 미국, 러시아 및 기타 조사자 간의 모델의 일관성, 영구적 손실 위험이 있는 과거 데이터를 보관할 지속적인 필요성이 포함된다.
+
+
+Individual thyroid doses from 131I, as well as uncertainties, have been estimated for two cohort studies of approximately 13,000 Ukrainians and 12,000 Belarussians exposed to fallout from the Chernobyl accident. 
+
+131I의 개별 갑상선 선량과 불확실성은 체르노빌 사고의 낙진에 노출된 약 13,000명의 우크라이나인과 12,000명의 벨라루스인을 대상으로 한 두 코호트 연구에 대해 추정되었다.
+
+
+The study described by Likhtarev et al. (10) is unique in that few, if any, other studies of environmental exposure have been able to rely on measurements of activity in the thyroid of each study subject. 
+
+Likhtarev 외 연구진(10)이 설명한 연구는 환경 노출에 대한 다른 연구가 있다면 각 연구 주체의 갑상선 활동 측정에 의존할 수 있었던 경우는 거의 없다는 점에서 독특하다.
+
+
+The assessment of the individual thyroid doses from intakes of 131I is based on the results of measurements of external g radiation by means of radiation detectors placed against the neck. 
+
+131I의 섭취에 따른 개별 갑상선 선량의 평가는 목에 배치된 방사선 검출기를 사용하여 외부 g 방사선을 측정한 결과에 기초한다.
+
+
+Within a few weeks after the Chernobyl accident, approximately 200,000 of those measurements were made in Belarus and 150,000 in Ukraine. 
+
+체르노빌 사고 후 몇 주 안에 벨로루시에서 약 20만 개, 우크라이나에서 15만 개가 측정되었다.
+
+
+In common with many other studies of exposure of the thyroid gland, the parameter that accounts for a large part of the uncertainty is the thyroid mass. 
+
+갑상선의 노출에 대한 많은 다른 연구들과 마찬가지로, 불확실성의 큰 부분을 차지하는 파라미터는 갑상선 질량이다.
+
+
+However, unlike other studies, there was uncertainty in the determination of the 131I content in the thyroid due to the direct g-ray measurements and their interpretation. 
+
+그러나 다른 연구와 달리 직접적인 g-ray 측정과 그 해석으로 인해 갑상선 내 131I 함량의 결정에는 불확실성이 있었다.
+
+
+Similar to Chernobyl, where doses were estimated to workers (6) and the public (10) living downwind of the damaged reactor, reconstructed doses to populations living downstream from the Mayak reactor have also been estimated. 
+
+체르노빌과 마찬가지로, 손상된 원자로의 바람 아래쪽에 사는 일반 주민(10)에게 선량이 추정되었고, 마야크 원자로에서 하류에 사는 주민에 대한 재구성 선량도 추정되었다.
+
+
+The Techa River dosimetry system, as described by Degteva et al. (11), estimates dose to the population living along the river that received discharges from the Mayak facility. 
+
+데그테바 외 연구진 (11)에서 설명한 대로, 테카 강 선량측정 시스템은 마야크 시설에서 방류를 받은 강을 따라 살고 있는 인구에 대한 선량을 추정한다.
+
+
+The Techa River dosimetry system was developed so that health risks of low to moderate dose rates could be evaluated in several exposed cohorts. 
+
+테카 강 선량측정 시스템은 여러 노출된 코호트에서 낮은 선량률에서 중간 선량률의 건강 위험을 평가할 수 있도록 개발되었다.
+
+
+In that dosimetry system, unique data on 90Sr in teeth (assayed by surface bparticle activity), whole-body measurements, and autopsy measurements have been used for validation of estimated doses. 
+
+선량측정 시스템에서는 치아의 90Sr에 대한 고유한 데이터(표면 입자 방사능으로 평가), 전신 측정 및 부검 측정이 추정 선량의 유효성 검사에 사용되어 왔다.
+
+
+In the paper by Cullings et al. (12), we get an appreciation for the evolution of the dosimetry for A-bomb survivors from the first implementation, T57D, to the present system, DS02. 
+
+Cullings et al. (12)에 의한 논문에서, 우리는 첫 번째 구현인 T57D에서 현재의 시스템인 DS02로 A-bomb 생존자에 대한 선량계가 진화된 것에 대한 감사를 받는다.
+
+
+More importantly, this paper clarifies that what was previously thought to be a substantial ‘‘neutron discrepancy’’ was actually not a major deficiency. 
+
+더 중요한 것은, 이 논문은 이전에 상당한 '신경계 불일치'로 여겨졌던 것이 사실 큰 결핍이 아니었다는 것을 명확히 한다.
+
+
+The exercise of applying the latest nuclear weapons codes and other computationally intensive calculations, made feasible by continued improvements in computer speed, served to improve the estimates of explosive yield and height of burst and to increase the spatial and temporal resolution of the DS02 calculations over previous versions. 
+
+컴퓨터 속도의 지속적인 개선으로 실현 가능한 최신 핵무기 코드 및 기타 계산 집약적 계산을 적용하는 연습은 폭발 수율과 폭발 높이 추정치를 개선하고 이전 버전에 비해 DS02 계산의 공간적, 시간적 분해능을 높이는 데 도움이 되었다.
+
+
+A-bomb survivor dosimetry is unique in many ways. First, there was a single acute exposure, a rare event except for some unintended criticality events, none of which are discussed in the papers here. 
+
+폭탄 생존 선량측정은 여러 면에서 독특하다. 첫째, 하나의 급성 피폭, 즉 의도하지 않은 몇몇 중대 사건을 제외하고는 드문 사건이 있었는데, 이 사건들은 여기 신문에서 논의되지 않는다.
+
+
+The predominant difficulty in A-bomb survivor dosimetry has been to accurately describe the source term and the energy fluence and air kerma at the location of each survivor. 
+
+원자폭탄 생존 선량측정의 가장 큰 어려움은 각 생존자의 위치에서 소스 용어와 에너지 유동 및 공기 커마를 정확하게 설명하는 것이었다.
+
+
+No other dosimetry system used for an epidemiological study has had such stringent requirements. 
+
+역학 연구에 사용된 다른 선량측정 시스템은 그러한 엄격한 요건을 가지고 있지 않다.
+
+
+To arrive at the most recent dose estimates, hundreds of person-years of effort have been expended over a period of about 50 years. 
+
+가장 최근의 선량 추정치에 도달하기 위해, 약 50년 동안 수백 명의 인재가 투입되었다.
+
+
+Most remaining issues requiring further study appear to be related to risk analyses, e.g., adjustments for dosimetry error, although the Nagasaki factory workers still appear to indicate a positive bias in their estimated doses. 
+
+추가 연구가 필요한 대부분의 남은 문제는 선량측정 오류의 조정과 같은 위험 분석과 관련된 것으로 보이지만, 나가사키 공장 근로자는 여전히 추정 선량에 양의 편견을 나타내는 것으로 보인다.
+
+
+Radon gas is believed to be a primary source of radiation risk to the public and has been the subject of information campaigns (see http://www.epa.gov/radon/pubs/), reports of well-respected committees (13, 14), and countless studies, conference presentations, and letters to journal editors debating the degree of risk. 
+
+라돈 가스는 대중에게 방사선 위험의 일차적인 원천으로 여겨지고 있으며 정보 캠페인(see 참조), 잘 알려진 위원회의 보고(13, 14), 그리고 위험의 정도를 논하는 저널 편집자에게 보내는 수많은 연구, 컨퍼런스 프레젠테이션 및 서신의 주제가 되어 왔다.
+
+
+It may come as a surprise to some readers that radon risk continues to be so hotly debated and that risk estimation has been based for decades on exposure (a measure of the a-particle energy released in air, integrated over time) rather than on absorbed dose delivered to tissue. 
+
+일부 독자들에게는 라돈 위험이 계속 그렇게 뜨거운 논쟁에 휩싸이고 있으며 위험 추정이 조직에 전달된 흡수 선량이 아니라 노출(공기에 방출된 입자 에너지의 측정치)에 기초하고 있다는 사실이 놀라움으로 다가올 수 있다.
+
+
+Puskin et al. (15) discuss the labyrinth of issues related to lung dosimetry from radon progeny. 
+
+푸스킨 외 연구진 (15)은 라돈 자손의 폐 선량측정과 관련된 미로 문제에 대해 논한다.
+
+
+Though the decay of radon gas through a series of radioactive by-products has been thoroughly understood for decades, the estimation of tissue dose has been one of the last issues resolved, partly because the short range of a-particle radiation complicates calculations, 
+
+일련의 방사성 부산물을 통한 라돈 가스의 붕괴는 수십 년 동안 철저히 이해되어 왔지만, 조직 선량 추정은 부분적으로는 입자 방사선의 짧은 범위가 계산을 복잡하게 하기 때문에 마지막으로 해결된 문제 중 하나이다.
+
+
+but also because the distribution of the radioactive progeny in the respiratory tract is far from uniform. 
+
+그러나 또한 호흡기에서 방사성 종족의 분포가 균일과는 거리가 멀기 때문이다.
+
+
+In addition, it is widely known that the quality of air in mines, where most risk studies have been conducted, and in homes, where greater numbers of people are exposed, differs considerably. 
+
+또한 대부분의 위험 연구가 실시된 광산과 더 많은 사람이 노출된 가정에서의 공기의 질이 상당히 다르다는 것이 널리 알려져 있다.
+
+
+These differences inevitably have led to uncertainty in estimated doses from radon. 
+
+이러한 차이는 불가피하게 라돈의 추정 선량의 불확실성으로 이어졌다.
+
+
+Looking to the Future 
+
+미래를 내다보며
+
+
+Here we discuss some specific challenges that became apparent during the review of the dosimetry applications presented in this issue. 
+
+여기서 우리는 이 호에 제시된 선량측정 응용 프로그램의 검토 중에 명백해진 몇 가지 구체적인 도전에 대해 논한다.
+
+
+Meeting these challenges will serve to improve future epidemiological analyses by providing more precise organ dose estimates for individuals while eliminating bias and reducing dose misclassification. 
+
+이러한 과제를 해결하면 편견을 없애고 선량 오분류를 줄임과 동시에 개인에 대해 보다 정확한 장기 선량 추정치를 제공함으로써 향후 역학 분석을 개선하는 데 도움이 될 것이다.
+
+
+Uncertainty 
+
+불확실성
+
+
+Understanding the uncertainty of models and estimated doses (16), minimizing uncertainly where possible and correcting dose.response relationships (17) for distortion of the dose response (i.e. the risk) in the presence of ‘‘classical’’ error will likely remain a challenge in all low-dose radiation studies. 
+
+모델과 추정 선량의 불확실성을 이해하고, 가능한 경우 불확실하게 최소화하고, "일반적" 오류가 있는 경우 선량 반응(즉 위험)의 왜곡에 대한 선량-반응 관계를 수정하는 것은 모든 저선량 방사선 연구에서 과제로 남을 가능성이 있다.
+
+
+Whereas dosimetry papers typically represent a challenge for epidemiologists and biostatisticians to understand, physicists and dosimetrists meet similar difficulties in assimilating the concepts explained by Schaeffer and Gilbert (18) in their discussion on statistical implications of uncertainty. 
+
+선량측정 논문은 일반적으로 역학자와 생물역동학자가 이해해야 하는 과제를 나타내는 반면, 물리학자와 선량측정학자는 불확실성의 통계적 함의 논의에서 샤이퍼와 길버트가 설명한 개념을 동화하는 데 있어 유사한 어려움을 충족한다.
+
+
+Readers will note the concerted attempt by those authors to provide a non-technical discussion, though the complexity of the issues can quickly be appreciated by trying to determine the degree to which any set of estimated doses contains classical or Berkson errors or combinations of the two. 
+
+모든 추정 선량이 고전적 또는 버크슨 오류 또는 두 가지 조합을 포함하는 정도를 결정하려고 노력하면 문제의 복잡성을 빠르게 평가할 수 있지만, 독자들은 그러한 저자들이 비기술적 논의를 제공하려는 일치된 시도를 주목하게 될 것이다.
+
+
+The additional problem of the lurking ‘‘shared errors’’ that result from complex estimation schemes and models, commonly used in dose reconstruction for environmental exposure scenarios, is discussed. 
+
+환경 피폭 시나리오에 대한 선량 재구성에 일반적으로 사용되는 복잡한 추정 체계와 모델에서 발생하는 "공유 오류"의 추가적인 문제가 논의된다.
+
+
+The possibility that either simpler or more complex exposure assessment models could be developed as a means to reduce dosimetric uncertainty has been considered. 
+
+선량계 불확실성을 줄이기 위한 수단으로 단순하거나 복잡한 노출 평가 모델을 개발할 수 있는 가능성을 고려했다.
+
+
+However, extremely complex models, while possibly justified as a means to understand physical processes, will not necessarily reduce uncertainty because of the additional parameters involved (19). 
+
+그러나 극히 복잡한 모델은 물리적 프로세스를 이해하는 수단으로 정당화될 수 있지만 관련된 추가 매개변수(19) 때문에 불확실성을 반드시 감소시키지는 않을 것이다.
+
+
+Reviews of the reliability of the parameter values used in biokinetic and dosimetric models have been helpful in identifying the areas where improvements can be made (20.22). 
+
+생체역학 및 선량측정 모델에 사용된 매개변수 값의 신뢰성에 대한 검토는 개선이 가능한 영역(20.22)을 식별하는 데 도움이 되었다.
+
+
+Independent Verification of Estimated Doses 
+
+추정 선량의 독립적
+
+
+Within this issue of Radiation Research, there are at least ten methods described for estimating doses under different exposure scenarios or where different types of data are available. 
+
+방사선 조사의 이 문제 내에서, 다른 피폭 시나리오에서 선량을 추정하거나 다른 유형의 데이터를 이용할 수 있는 경우에 대해 기술된 방법이 적어도 10개 있다.
+
+
+Radiation doses received by tissues of interest are not directly observable. 
+
+관심 조직에서 받은 방사선량은 직접 관측할 수 없다.
+
+
+Nor are data usually available to estimate tissue doses precisely except, perhaps, where dosimeters are placed in situ before an exposure takes place. 
+
+또한 노출이 발생하기 전에 선량계가 시투에 배치되는 경우를 제외하고 조직 선량을 정확하게 추정하는 데이터도 일반적으로 이용할 수 없다.
+
+
+Retrospective dose estimation, used extensively in radiation epidemiology, has the distinct disadvantage that dose to the tissue of interest was almost never measured. 
+
+방사선 역학에서 광범위하게 사용되는 소급 선량 추정에는 관심 조직에 대한 선량이 거의 측정되지 않았다는 분명한 단점이 있다.
+
+
+With the exception of medical exposures, models are almost always employed to deduce the absorbed energy and the toolbox of techniques available for retrospective estimation typically have common weaknesses related to models and reliability of input data. 
+
+의료 노출을 제외하고, 모델은 거의 항상 흡수된 에너지를 추론하기 위해 사용되며, 소급 추정에 사용할 수 있는 기법의 도구 상자는 일반적으로 모델 및 입력 데이터의 신뢰성과 관련된 공통적인 약점을 가지고 있다.
+
+
+As a useful addition to the dosimetric toolbox, we have recently added the capability to make measurements of certain biological changes induced by radiation, i.e. biodosimetric measurements (23, 24). 
+
+선량측정 도구상자에 유용한 추가로서, 우리는 최근에 방사선에 의해 유발되는 특정 생물학적 변화, 즉 생물측정법(23, 24)을 측정하는 기능을 추가했다.
+
+
+These measurements include, for example, fluorescence in situ hybridization for translocation analysis (using peripheral blood lymphocytes) and electron paramagnetic resonance (using tooth enamel). 
+
+예를 들어, 이러한 측정에는 (말초혈액 림프구를 사용한) 변환 분석을 위한 시투 혼합의 형광과 (이 에나멜을 사용한) 전자 파라메스 자기 공명이 포함된다.
+
+
+These techniques potentially allow for testing the reliability of estimated doses. 
+
+이러한 기법은 잠재적으로 추정 선량의 신뢰성을 시험할 수 있다.
+
+
+There are limitations of the techniques themselves, including temporal stability, minimum detection limits, and sample collection. 
+
+시간 안정성, 최소 감지 한계 및 샘플 수집을 포함하여 기술 자체의 한계가 있다.
+
+
+Verification of estimated doses, to the degree possible, will continue to be a necessary part of determining risks per unit dose whenever independent reliability is demanded. 
+
+추정 선량의 검증은 가능한 정도까지 독립적 신뢰성이 요구될 때마다 단위 선량당 위험을 결정하는 데 계속 필요한 부분이 될 것이다.
+
+
+The immediate challenge for biodosimetry is to develop alternative technologies that are less expensive and that can be implemented more quickly, are less biologically invasive, and have lower detection limits, while maintaining the signal many years after the exposure, as is currently possible for the FISH and EPR techniques. 
+
+생물측정학의 당면 과제는 FISH 및 EPR 기법에 대해 현재 가능한 것처럼 노출 후 수년 동안 신호를 유지하면서 비용이 적게 들고 더 빨리 구현할 수 있고 생물학적으로 침습성이 적고 검출 한계가 낮은 대체 기술을 개발하는 것이다.
+
+
+One current attempt is to develop in vivo EPR measurement methods that can be carried out without having to obtain extracted teeth. 
+
+한 가지 전류 시도는 추출된 치아를 얻을 필요 없이 수행할 수 있는 생체 내 EPR 측정 방법을 개발하는 것이다.
+
+
+Innovations of this type would be useful, particularly to any moderate-sized epidemiological study that depended on retrospective dosimetry as well as being a useful tool after radiological terrorism events. 
+
+이러한 유형의 혁신은 특히 방사능 테러 사건 후 유용한 도구일 뿐만 아니라 소급 선량 측정에 의존하는 중간 크기의 역학 연구에 유용할 것이다.
+
+
+Other New Tools 
+
+기타 새 도구
+
+
+The toolbox for estimating doses has long included various types of models. 
+
+선량을 추정하기 위한 도구 상자에는 다양한 유형의 모델이 오랫동안 포함되어 있다.
+
+
+The set of tools that are available for dose estimation continues to expand, but the most basic set includes historical archived data, contemporary physical measurements to supplement historical data, models of transport phenomena, biokinetics, behaviors (e.g. food ingestion rates), and numerical simulation. 
+
+선량 추정에 사용할 수 있는 도구 집합은 계속 확장되지만, 가장 기본적인 집합에는 과거 보관 데이터, 과거 데이터를 보완하기 위한 동시 물리적 측정, 운송 현상 모델, 생물역동학, 행동(예: 식품 섭취 속도) 및 수치 시뮬레이션이 포함된다.
+
+
+Due to advances in computer hardware as well as software implementation of complex algorithms, the application of simulation has expanded to cover nearly all aspects of dosimetry including environmental transport, energy and particle transport, and models of complex emission sources and complex-shaped receptors, e.g. the human body. 
+
+복잡한 알고리즘의 소프트웨어 구현뿐만 아니라 컴퓨터 하드웨어의 진보로 인해, 시뮬레이션의 적용은 환경 전송, 에너지 및 입자 전송을 포함한 선량 측정의 거의 모든 측면과 인체 등 복잡한 배출원과 복잡한 모양의 수용체의 모델을 포괄하도록 확장되었다.
+
+
+Recently, voxel-based phantoms have seen a surge of development that will serve to improve the realism of dosimetric estimates. 
+
+최근 복셀 기반의 팬텀은 선량측정 추정의 현실성을 향상시키는 데 도움이 될 개발이 급증하고 있다.
+
+
+Voxels (meaning volume elements) are the threedimensional equivalents of image pixels. 
+
+복셀(volume elements)은 이미지 픽셀의 3차원 등가물이다.
+
+
+Unlike mathematical phantoms that are equation-based descriptions of the geometry of the human body, voxel phantoms are based on computed tomographic or magnetic resonance images obtained from high-resolution scans of single individuals. 
+
+복셀 팬텀은 인체 기하학을 방정식으로 기술하는 수학적 팬텀과 달리 단일 개인의 고해상도 스캔에서 얻은 계산된 단층 촬영 또는 자기공명 영상을 기반으로 한다.
+
+
+Voxel phantoms consist of a huge number of volume elements (voxels) and are at the moment the most precise representation of the human anatomy (25). 
+
+복셀 팬텀은 엄청난 수의 볼륨 요소(복셀)로 구성되어 있으며 현재 인체 해부학(25)을 가장 정확하게 나타내고 있다.
+
+
+Studies of external doses to individuals, e.g. the study of radiation technologists (8), could take advantage of a new generation of phantoms and further individualize doses based on variations in individual morphology. 
+
+개인에 대한 외부 선량에 대한 연구(예: 방사선 기술자의 연구)는 새로운 세대의 팬텀을 이용할 수 있으며, 개인 형태학의 변이에 기초하여 선량을 더욱 개별화할 수 있다.
+
+
+FINAL REMARKS 
+
+최종 리마감
+
+
+This review of the application of dosimetry in epidemiology has shown that for the most part, estimated doses can be usefully grouped by the exposure categories of medical, occupational and environmental. 
+
+역학에서 선량측정 적용에 대한 이 검토는 대부분의 경우 추정 선량을 의료, 직업 및 환경의 피폭 범주에 따라 유용하게 그룹화할 수 있음을 보여주었다.
+
+
+Moreover, those categories are generally indicative of the degree of uncertainty that should be expected in the estimated doses. 
+
+더욱이 그러한 범주는 일반적으로 추정 선량에 예상되어야 하는 불확실성의 정도를 나타낸다.
+
+
